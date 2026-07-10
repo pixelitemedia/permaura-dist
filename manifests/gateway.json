@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "assets": {
+    "darwin-arm64": {
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v0.1.0/permaura-gateway-darwin-arm64",
+      "sha256": "0336467f7ccb206821a80db2dedadce405dfebbb40ec2c9be09299cf998812bb"
+    },
+    "darwin-amd64": {
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v0.1.0/permaura-gateway-darwin-amd64",
+      "sha256": "b6caf9559e2e9e18c357b1e4f2fe4eafcedc1dbd14deb85adbb8a04207612779"
+    }
+  }
+}

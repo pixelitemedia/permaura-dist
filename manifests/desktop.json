@@ -1,15 +1,15 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "Automated desktop release.",
-  "pub_date": "2026-07-11T03:25:13Z",
+  "pub_date": "2026-07-11T23:31:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR0xJeTh6OGJVODhhd04rZHU1UlVtQk1WREhNY0VTVkplYWlJYjhWVnNqcWVDamJqZWY5R0FLSlhQeVBrelQ4UU4wT25Xd0dSUlVFMCthT09ON1F6UER5Mkk5MGJsWkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzQwMjQzCWZpbGU6UGVybWF1cmEuYXBwLnRhci5nego5YWpBbzU1bC9pblVnZ3hrR3dMMXIwaWhYeUMrQ0c0UXAwcWtFdVpHL3BwVDNIdmJtLzdBZG53ME1BNDFINUVBb1FocmV3T1ZqaHlGb0l1VEJvbzJCdz09Cg==",
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/desktop-v0.1.4/Permaura.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR0xJeTh6OGJVOCtlMmowd1RiNGJRdkJrU1I2SDdNVDlHRGZMejVYSWg0V0lKSm5ycXFyOFFWbllqZ0NVay9KMlJmOWYwbGtqRzFWblIxZWJBU3NVUzBqTGZtSEhra1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODEyNjQ3CWZpbGU6UGVybWF1cmEuYXBwLnRhci5negpyM3FFUUt1MXlxVEg0Wlh4SUV6QkY2dXZJQ1E4dWZqMFZiYzcyUmxvcjJaS1RQbzYzMEFIRGUxT2I1aWhDVytCWkJwNG9mTEtLZFIyc1dlbnpFVWJBdz09Cg==",
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/desktop-v0.1.5/Permaura.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR0xJeTh6OGJVODhhd04rZHU1UlVtQk1WREhNY0VTVkplYWlJYjhWVnNqcWVDamJqZWY5R0FLSlhQeVBrelQ4UU4wT25Xd0dSUlVFMCthT09ON1F6UER5Mkk5MGJsWkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzQwMjQzCWZpbGU6UGVybWF1cmEuYXBwLnRhci5nego5YWpBbzU1bC9pblVnZ3hrR3dMMXIwaWhYeUMrQ0c0UXAwcWtFdVpHL3BwVDNIdmJtLzdBZG53ME1BNDFINUVBb1FocmV3T1ZqaHlGb0l1VEJvbzJCdz09Cg==",
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/desktop-v0.1.4/Permaura.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR0xJeTh6OGJVOCtlMmowd1RiNGJRdkJrU1I2SDdNVDlHRGZMejVYSWg0V0lKSm5ycXFyOFFWbllqZ0NVay9KMlJmOWYwbGtqRzFWblIxZWJBU3NVUzBqTGZtSEhra1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODEyNjQ3CWZpbGU6UGVybWF1cmEuYXBwLnRhci5negpyM3FFUUt1MXlxVEg0Wlh4SUV6QkY2dXZJQ1E4dWZqMFZiYzcyUmxvcjJaS1RQbzYzMEFIRGUxT2I1aWhDVytCWkJwNG9mTEtLZFIyc1dlbnpFVWJBdz09Cg==",
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/desktop-v0.1.5/Permaura.app.tar.gz"
     }
   }
 }

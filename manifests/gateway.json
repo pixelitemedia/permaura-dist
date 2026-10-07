@@ -1,29 +1,29 @@
 {
-  "version": "1.3.31",
+  "version": "1.3.32",
   "assets": {
     "darwin-arm64": {
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.31/permaura-darwin-arm64",
-      "sha256": "5b1d7c57f60f03269cb513762b5fd5a6b61b0f7be86d5416df50acdd31f85fdd"
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.32/permaura-darwin-arm64",
+      "sha256": "e0a47c965dcfeeb7d5f547bf8b3f056409c99d3e1dfe4e9b4d6b7e84d1bd0d52"
     },
     "darwin-amd64": {
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.31/permaura-darwin-amd64",
-      "sha256": "e375091d94355601ff6e7231859ce3928e2fb8bca581694ddc4a3e861dbe1d4e"
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.32/permaura-darwin-amd64",
+      "sha256": "4a43c73b5937f14647e1f489728e6998bb330a06a45ff6f705f7cc6bbf8e3dc8"
     },
     "linux-amd64": {
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.31/permaura-linux-amd64",
-      "sha256": "478631fdf3f6806998517ee31b98a73fa5de9ab045d47510b3d93fda598e884f"
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.32/permaura-linux-amd64",
+      "sha256": "ed3569fe2cf85ea1f7b66154802fe45015174bd7b72341c7745ea7d6df4d44e6"
     },
     "linux-arm64": {
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.31/permaura-linux-arm64",
-      "sha256": "620dd52830ee85997e0862062d9971ce3f7bc2eec82630f06f8d403b5e48c12e"
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.32/permaura-linux-arm64",
+      "sha256": "58f2fccc5393daf6c103d2d758f981b3f6192fc96cb01118def34bd3023ae40c"
     },
     "win32-amd64": {
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.31/permaura-win32-amd64.exe",
-      "sha256": "96a068ed7c1c71c696fd0d7c83f398188ba2c316313850a2fbc66deb0b45f875"
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.32/permaura-win32-amd64.exe",
+      "sha256": "c4e6a5693d1926fbee49e54069dbc08f490745ca1e2cadaee73201d9a4fe678f"
     },
     "win32-arm64": {
-      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.31/permaura-win32-arm64.exe",
-      "sha256": "a63119453ea80447f38d0592153f4e7dc92737445852be099784f1a2798a2558"
+      "url": "https://github.com/pixelitemedia/permaura-dist/releases/download/gateway-v1.3.32/permaura-win32-arm64.exe",
+      "sha256": "0e5593c0e1968623cdcc2b25957847375e3a9c7395360030564d9bbaa93a7f63"
     }
   }
 }
